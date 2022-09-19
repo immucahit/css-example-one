@@ -1,0 +1,16 @@
+body{
+    background-color:#34495E;
+    color:#F4F7F7;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color:#5DA0A2;
+}
+
+a{
+    color: #AACFD0;
+}
+
+.menu{
+    list-style-type: none;
+}
