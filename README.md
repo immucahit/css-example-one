@@ -1,2 +1,1 @@
-# css-example-one
-Patika.dev CSS Example
+# Patika.dev CSS Example
